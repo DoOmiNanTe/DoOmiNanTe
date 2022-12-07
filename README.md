@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DoOmiNanTe
-- 🌱 I’m currently learning  html/css/js        
+- 👋 Hi, I’m @DoOmiNanTe      
+- 🌱 I’m currently learning  html/css/js/sql
 
 
 <!---
